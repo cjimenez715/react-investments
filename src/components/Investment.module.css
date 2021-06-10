@@ -1,0 +1,16 @@
+.dataContainer {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  position: relative;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+span:nth-child(2){
+  position: absolute;
+  margin-left: 6rem;
+}
+
+
+
